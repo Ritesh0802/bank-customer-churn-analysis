@@ -52,7 +52,7 @@ The result is a **decision-focused churn analysis**, not just a visualization ex
 ## 📷 Dashboard Walkthrough & Insights
 
 ### 1️⃣ Executive Summary & Key Drivers
-![Executive Summary](screenshots/01_executive_summary_key_drivers.png)
+![Executive Summary](01_executive_summary_key_drivers.png)
 
 **Purpose:**  
 Provide a consolidated view of churn performance and surface the most impactful churn drivers.
@@ -67,7 +67,7 @@ Provide a consolidated view of churn performance and surface the most impactful 
 ---
 
 ### 2️⃣ Supporting Risk & Financial Signals
-![Supporting Signals](screenshots/02_supporting_risk_financial_signals.png)
+![Supporting Signals](02_supporting_risk_financial_signals.png)
 
 **Purpose:**  
 Validate churn hypotheses and eliminate weak or misleading predictors.
@@ -83,7 +83,7 @@ This page acts as a **validation layer**, ensuring decisions are evidence-driven
 ---
 
 ### 3️⃣ Executive Summary & Strategic Recommendations
-![Recommendations](screenshots/03_executive_summary_recommendations.png)
+![Recommendations](03_executive_summary_recommendations.png)
 
 **Key Metrics**
 - Inactive Customers: **48.49%**
@@ -163,5 +163,6 @@ This project demonstrates:
 ## ✅ Final Note
 This project is designed to be **recruiter-readable**, **interview-ready**, and **business-relevant**.  
 All insights are framed to support real-world decision making rather than exploratory analysis alone.
+
 
 
