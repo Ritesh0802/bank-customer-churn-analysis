@@ -52,7 +52,7 @@ The result is a **decision-focused churn analysis**, not just a visualization ex
 ## 📷 Dashboard Walkthrough & Insights
 
 ### 1️⃣ Executive Summary & Key Drivers
-![Executive Summary](screenshots/01_executive_summary_key_drivers.png)
+![Executive Summary](01_executive_summary_key_drivers.png)
 
 **Purpose:**  
 Provide a consolidated view of churn performance and surface the most impactful churn drivers.
@@ -163,3 +163,4 @@ This project demonstrates:
 ## ✅ Final Note
 This project is designed to be **recruiter-readable**, **interview-ready**, and **business-relevant**.  
 All insights are framed to support real-world decision making rather than exploratory analysis alone.
+
