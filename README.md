@@ -135,10 +135,9 @@ Bank-Churn-Analysis/
 │ ├── 02_supporting_risk_financial_signals.png
 │ │ # Validation of secondary and low-impact churn signals
 │ └── 03_executive_summary_recommendations.png
-│   # Consolidated insights and strategic recommendations
+│ # Consolidated insights and strategic recommendations
 │
 └── README.md
-
 # Project documentation and business context
 ---
 
@@ -161,4 +160,5 @@ This project demonstrates:
 ## ✅ Final Note
 This project is designed to be **recruiter-readable**, **interview-ready**, and **business-relevant**.  
 All insights are framed to support real-world decision making rather than exploratory analysis alone.
+
 
