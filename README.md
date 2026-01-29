@@ -119,6 +119,7 @@ Retention ROI is highest when interventions focus on **usage behavior and custom
 ---
 
 ## 📂 Repository Structure
+
 Bank-Churn-Analysis/
 │
 ├── data/
@@ -139,6 +140,7 @@ Bank-Churn-Analysis/
 │
 └── README.md
 # Project documentation and business context
+
 ---
 
 ## 🚀 How to Use
@@ -160,5 +162,6 @@ This project demonstrates:
 ## ✅ Final Note
 This project is designed to be **recruiter-readable**, **interview-ready**, and **business-relevant**.  
 All insights are framed to support real-world decision making rather than exploratory analysis alone.
+
 
 
