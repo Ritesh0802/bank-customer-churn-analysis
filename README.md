@@ -172,7 +172,7 @@ Bank-Churn-Analysis/
 3. Use insights to design churn reduction and customer retention strategies
 
 ##🚀 Deployment Instructions
-- Run Locally: - pip install -r requirements.txt
+- Run Locally: - pip install -r requirements.txt, 
                  python -m streamlit run app.py
 
 ---
@@ -189,6 +189,7 @@ This project demonstrates:
 ## ✅ Final Note
 This project is designed to be **recruiter-readable**, **interview-ready**, and **business-relevant**.  
 All insights are framed to support real-world decision making rather than exploratory analysis alone.
+
 
 
 
