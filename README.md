@@ -61,7 +61,7 @@ Alongside the Power BI dashboard, this project also includes an interactive Stre
 
 This transforms the project from a static dashboard into a deployable analytics product.
 
-**Live App:** 👉 (Add deployment link here after hosting)
+**Live App:** 👉 [Open Streamlit App](https://bank-customer-churn-analysis-g45tys9fcbqppi6pzs2krp.streamlit.app/)
 
 ---
 
@@ -189,6 +189,7 @@ This project demonstrates:
 ## ✅ Final Note
 This project is designed to be **recruiter-readable**, **interview-ready**, and **business-relevant**.  
 All insights are framed to support real-world decision making rather than exploratory analysis alone.
+
 
 
 
