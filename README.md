@@ -43,9 +43,25 @@ The result is a **decision-focused churn analysis**, not just a visualization ex
 ## 🛠 Tools & Skills Applied
 - **Power BI Desktop**
 - **DAX** (custom KPIs & churn measures)
+- **Python** (Pandas, NumPy, Scikit-learn)
+- **Streamlit** (Interactive web app deployment)
 - **Exploratory Data Analysis (EDA)**
 - **Customer segmentation**
 - **Business storytelling & executive reporting**
+
+---
+
+## 🌐 Interactive Web App (Streamlit)
+
+Alongside the Power BI dashboard, this project also includes an interactive Streamlit web application that allows:
+- Real-time customer churn exploration
+- Interactive churn prediction using a machine learning model
+- Business insights with visual storytelling
+- Quick experimentation with customer attributes
+
+This transforms the project from a static dashboard into a deployable analytics product.
+
+**Live App:** 👉 (Add deployment link here after hosting)
 
 ---
 
@@ -113,7 +129,8 @@ This page acts as a **validation layer**, ensuring decisions are evidence-driven
 ---
 
 ## 🧠 Executive Conclusion
-Customer churn is driven primarily by **early tenure and disengagement**, not by income or credit strength.  
+Customer churn is driven primarily by **early tenure and disengagement** rather than financial strength.
+Both the **Power BI dashboard and the Streamlit app** demonstrate how these insights translate into actionable retention strategies.  
 Retention ROI is highest when interventions focus on **usage behavior and customer engagement**, rather than financial profiling.
 
 ---
@@ -152,7 +169,11 @@ Bank-Churn-Analysis/
 ## 🚀 How to Use
 1. Review the dashboard screenshots for a quick understanding of insights  
 2. Open the `.pbix` file in **Power BI Desktop** for interactive exploration  
-3. Use insights to design churn reduction and customer retention strategies  
+3. Use insights to design churn reduction and customer retention strategies
+
+##🚀 Deployment Instructions
+- Run Locally: - pip install -r requirements.txt
+                 python -m streamlit run app.py
 
 ---
 
@@ -168,6 +189,9 @@ This project demonstrates:
 ## ✅ Final Note
 This project is designed to be **recruiter-readable**, **interview-ready**, and **business-relevant**.  
 All insights are framed to support real-world decision making rather than exploratory analysis alone.
+
+
+
 
 
 
