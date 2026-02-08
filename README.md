@@ -130,6 +130,11 @@ Bank-Churn-Analysis/
 │ └── EDA - Bank Churn Analysis.pbix
 │ # Power BI dashboard containing data model, DAX measures, and visuals
 │
+├── app/
+│   ├── app.py
+│   ├── requirements.txt
+│   # Streamlit churn analysis web application
+│
 ├── screenshots/
 │ ├── 01_executive_summary_key_drivers.png
 │ │ # High-level churn KPIs and primary drivers
@@ -163,6 +168,7 @@ This project demonstrates:
 ## ✅ Final Note
 This project is designed to be **recruiter-readable**, **interview-ready**, and **business-relevant**.  
 All insights are framed to support real-world decision making rather than exploratory analysis alone.
+
 
 
 
